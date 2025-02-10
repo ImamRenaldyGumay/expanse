@@ -62,5 +62,5 @@ Proyek ini dirilis di bawah lisensi **MIT**.
 
 ---
 
-**Dibuat dengan ❤️ oleh [Nama Kamu]**
+**Dibuat dengan ❤️ oleh M Imam Renaldy Gumay**
 
